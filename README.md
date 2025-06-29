@@ -17,19 +17,18 @@
  Hier sind einige der Projekte, an denen ich gearbeitet habe: <br>
  
   Explorative Datenanalyse (EDA):  <br>
- 1- Storke Data Project  <br>
- 2- Laptop Price Project  <br>
- 3- Store Sharing Project  <br>
+ 1- [Stroke Data Project - Kaggle](https://www.kaggle.com/code/mesutkaragz/storke-data-project) <br>
+ 3- [Store Sharing Project - Kaggle](https://www.kaggle.com/code/mesutkaragz/store-sharing-project) <br>
  
  Power BI Projekte:  <br>
  1- Pizza Restaurant Sales  <br>
  
   Tableau Projekte:   <br>
  1- [Airbnb in NYC - Tableau Dashboard](https://public.tableau.com/app/profile/mesut.karag.z/viz/AirbnbinNYC_17506109078190/Story2) <br>
- 2- Xbox Dataset  <br>
- 3- Road Accident Dashboard  <br>
- 4- London Bus Safety  <br>
- 5- Animierte Visualisierungen mit Tableau   <br>
+ 2- [Xbox Dataset - Tableau Dashboard](https://public.tableau.com/app/profile/mesut.karag.z/viz/XboxDataset/Dashboard23) <br>
+ 3- [Road Accident Dashboard - Tableau](https://public.tableau.com/app/profile/mesut.karag.z/viz/RoadAccidentDashboard_17507719270400/Dashboard1) <br>
+ 4- [London Bus Safety - Tableau](https://public.tableau.com/app/profile/mesut.karag.z/viz/DataVisualizationwithTableau-1_17480948729220/Dashboard1)  <br>
+ 5- [World History Analysis - Tableau](https://public.tableau.com/app/profile/mesut.karag.z/viz/Animasyon_17490582647970/WorldHistory) <br>
  
  # Meine Fähigkeiten  <br>
  IT Fundamentals (ITF)  <br>
