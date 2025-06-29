@@ -3,7 +3,7 @@
 # Hallo! Ich bin Mesut 👋
 
 
-# 🤝 Willkommen auf meinem Profil!
+ 🤝 Willkommen auf meinem Profil!
 
 
 
@@ -18,15 +18,15 @@ Mein Ziel ist es, sehr bald professionell als Data Analyst oder Data Scientist t
 ## 💼 Meine Projekte
 Hier sind einige der Projekte, an denen ich gearbeitet habe:
 
-## Explorative Datenanalyse (EDA): 
+ Explorative Datenanalyse (EDA): 
 1- Storke Data Project
 2- Laptop Price Project
 3- Store Sharing Project
 
-## Power BI Projekte: 
+Power BI Projekte: 
 1- Pizza Restaurant Sales
 
-## Tableau Projekte: 
+ Tableau Projekte: 
 1- Airbnb in NYC
 2- Xbox Dataset
 3- Road Accident Dashboard
@@ -43,7 +43,7 @@ Power BI  -  Tableau  -- Statistics 1 & 2  -  Data Storytelling
 
 Danke, dass du mein Profil besucht hast! 😊
 
-📫 Kontaktieren Sie mich:
+# 📫 Kontaktieren Sie mich:
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mesut-karag%C3%B6z-181733260/)  
