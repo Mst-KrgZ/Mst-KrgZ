@@ -5,7 +5,7 @@
 
 # 🤝 Willkommen auf meinem Profil!
 
-<hr style="border: 3px solid black;">
+
 
 ## Über Mich
 Als ehemaliger Physiker mit einer Leidenschaft für Daten habe ich meine Karriere der Analyse und Interpretation komplexer Datensätze gewidmet. 
@@ -40,13 +40,11 @@ Git & GitHub  -  SQL  -  Data Visualization  -  Pandas  -  NumPy  -  Google Shee
 
 Power BI  -  Tableau  -- Statistics 1 & 2  -  Data Storytelling
 
-<hr style="border: 3px solid black;">
 
 Danke, dass du mein Profil besucht hast! 😊
 
 📫 Kontaktieren Sie mich:
 
-<hr>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mesut-karag%C3%B6z-181733260/)  
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:mesutkrgz65@gmail.com)
