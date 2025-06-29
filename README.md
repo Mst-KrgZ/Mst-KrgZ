@@ -2,7 +2,6 @@
 
 # Hallo! Ich bin Mesut 👋
 
-<hr style="border: 3px solid black;">
 
 # 🤝 Willkommen auf meinem Profil!
 
