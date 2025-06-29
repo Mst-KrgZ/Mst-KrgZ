@@ -43,10 +43,10 @@
  Data Visualization   <br>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="25" height="25"/> Pandas  <br> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="25" height="25"/> NumPy <br> 
- <img src="https://cdn.worldvectorlogo.com/logos/google-sheets-1.svg" alt="Google Sheets" width="25" height="25"/> Google Sheets  <br> 
+<img src="https://cdn.worldvectorlogo.com/logos/google-sheets-1.svg" alt="Google Sheets" width="40" height="40"/>  Google Sheets  <br> 
  
- <img src="https://cdn.worldvectorlogo.com/logos/microsoft-power-bi.svg" alt="Power BI" width="40" height="40"/> Power BI <br> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/> Tableau  <br> 
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-power-bi.svg" alt="Power BI" width="40" height="40"/>  Power BI <br> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/> Tableau  <br> 
  -- Statistics 1 & 2  -  Data Storytelling  <br>
  
  # 
