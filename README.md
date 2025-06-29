@@ -32,11 +32,22 @@
  5- Animierte Visualisierungen mit Tableau   <br>
  
  Meine Fähigkeiten  <br>
- IT Fundamentals (ITF)  -   Python  -  HTML & CSS - Software Development Life Cycle (SDLC) & JIRA  <br>
+ IT Fundamentals (ITF)  <br>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="25" height="25"/> Python  <br>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="25" height="25"/> HTML & CSS   <br>
+ <img src="https://w7.pngwing.com/pngs/621/453/png-transparent-jira-software-issue-tracking-system-atlassian-software-development-software-computer-software-jira-logo-computer-software-thumbnail.png" alt="JIRA" width="40" height="40"/>
+ Software Development Life Cycle (SDLC) & JIRA  <br>
  
- Git & GitHub  -  SQL  -  Data Visualization  -  Pandas  -  NumPy  -  Google Sheets  <br>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="25" height="25"/> Git & GitHub   <br>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="25" height="25"/> SQL   <br>
+ Data Visualization   <br>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="25" height="25"/> Pandas  <br> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="25" height="25"/> NumPy <br> 
+ <img src="https://cdn.worldvectorlogo.com/logos/google-sheets-1.svg" alt="Google Sheets" width="25" height="25"/> Google Sheets  <br> 
  
- Power BI  -  Tableau  -- Statistics 1 & 2  -  Data Storytelling  <br>
+ <img src="https://cdn.worldvectorlogo.com/logos/microsoft-power-bi.svg" alt="Power BI" width="40" height="40"/> Power BI <br> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/> Tableau  <br> 
+ -- Statistics 1 & 2  -  Data Storytelling  <br>
  
  # 
  Danke, dass du mein Profil besucht hast! 😊 
