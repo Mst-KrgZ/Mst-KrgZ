@@ -35,7 +35,7 @@
  IT Fundamentals (ITF)  <br>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="25" height="25"/> Python  <br>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="25" height="25"/> HTML & CSS   <br>
- <img src="https://w7.pngwing.com/pngs/621/453/png-transparent-jira-software-issue-tracking-system-atlassian-software-development-software-computer-software-jira-logo-computer-software-thumbnail.png" alt="JIRA" width="40" height="40"/>
+ <img src="https://img.icons8.com/?size=100&id=6aZUcUt6WjzU&format=png&color=000000" alt="JIRA" width="40" height="40"/>
  Software Development Life Cycle (SDLC) & JIRA  <br>
  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="25" height="25"/> Git & GitHub   <br>
