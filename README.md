@@ -43,11 +43,12 @@
  Data Visualization   <br>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="25" height="25"/> Pandas  <br> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="25" height="25"/> NumPy <br> 
-<img src="https://cdn.worldvectorlogo.com/logos/google-sheets-1.svg" alt="Google Sheets" width="40" height="40"/>  Google Sheets  <br> 
+ <img src="https://img.icons8.com/?size=100&id=qrAVeBIrsjod&format=png&color=000000" alt="Google Sheets" width="40" height="40"/>  Google Sheets  <br> 
  
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-power-bi.svg" alt="Power BI" width="40" height="40"/>  Power BI <br> 
+<img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="Power BI" width="40" height="40"/>  Power BI <br> 
 <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau" width="40" height="40"/> Tableau  <br> 
- -- Statistics 1 & 2  -  Data Storytelling  <br>
+ Statistics 1 & 2   <br>
+ Data Storytelling 
  
  # 
  Danke, dass du mein Profil besucht hast! 😊 
