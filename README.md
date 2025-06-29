@@ -18,7 +18,7 @@
  
   Explorative Datenanalyse (EDA):  <br>
  1- [Stroke Data Project - Kaggle](https://www.kaggle.com/code/mesutkaragz/storke-data-project) <br>
- 3- [Store Sharing Project - Kaggle](https://www.kaggle.com/code/mesutkaragz/store-sharing-project) <br>
+ 2- [Store Sharing Project - Kaggle](https://www.kaggle.com/code/mesutkaragz/store-sharing-project) <br>
  
  Power BI Projekte:  <br>
  1- Pizza Restaurant Sales  <br>
