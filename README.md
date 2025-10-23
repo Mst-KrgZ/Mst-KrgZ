@@ -1,8 +1,9 @@
 <!-- 🎯 Mesut Karagöz | Data Science & Analytics README -->
 
 <!-- HEADER / BANNER -->
+
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" alt="Data Stream Animation"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600" alt="AI Brain Neural Animation"/>
 </p>
 
 
