@@ -1,60 +1,96 @@
+<!-- 🎯 Mesut Karagöz | Data Science & Analytics README -->
 
- #       Hallo! Ich bin Mesut Karagöz 👋
- 
- # 🤝 Willkommen auf meinem Profil!
- 
- 
- 
- ## Über Mich
- Als ehemaliger Physiker mit einer Leidenschaft für Daten habe ich meine Karriere der Analyse und Interpretation komplexer Datensätze gewidmet. 
- Mein wissenschaftlicher Hintergrund ermöglicht es mir, analytisches Denken mit praktischen Lösungen zu verbinden.
- 
- Aktuell erweitere ich mein Wissen in Data Science durch praxisnahe Projekte, Online-Kurse und kontinuierliches Selbststudium.
- Demnächst beginne ich zudem eine berufliche Weiterbildung in diesem Bereich, um meine Kenntnisse weiter zu vertiefen.
- Mein Ziel ist es, sehr bald professionell als Data Analyst oder Data Scientist tätig zu sein.
- 
- ## 💼 Meine Projekte
- Hier sind einige der Projekte, an denen ich gearbeitet habe: <br>
- 
-  Explorative Datenanalyse (EDA):  <br>
- 1- [Stroke Data Project - Kaggle](https://www.kaggle.com/code/mesutkaragz/storke-data-project) <br>
- 2- [Store Sharing Project - Kaggle](https://www.kaggle.com/code/mesutkaragz/store-sharing-project) <br>
- 
- Power BI Projekte:  <br>
- 1- Pizza Restaurant Sales  <br>
- 
-  Tableau Projekte:   <br>
- 1- [Airbnb in NYC Dashboard - Tableau](https://public.tableau.com/app/profile/mesut.karag.z/viz/AirbnbinNYC_17506109078190/Story2) <br>
- 2- [Xbox Dataset Dashboard - Tableau](https://public.tableau.com/app/profile/mesut.karag.z/viz/XboxDataset/Dashboard23) <br>
- 3- [Road Accident Dashboard - Tableau](https://public.tableau.com/app/profile/mesut.karag.z/viz/RoadAccidentDashboard_17507719270400/Dashboard1) <br>
- 4- [London Bus Safety Dashboard - Tableau](https://public.tableau.com/app/profile/mesut.karag.z/viz/DataVisualizationwithTableau-1_17480948729220/Dashboard1)  <br>
- 5- [World History Analysis Dashboard - Tableau](https://public.tableau.com/app/profile/mesut.karag.z/viz/Animasyon_17490582647970/WorldHistory) <br>
- 
- # Meine Fähigkeiten  <br>
- IT Fundamentals (ITF)  <br>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="25" height="25"/> Python      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="25" height="25"/> Git & GitHub     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="25" height="25"/> PostgreSQL   <br>
+<!-- HEADER / BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/5FfO3n7.png" alt="Data Science Banner" width="100%" />
+</p>
+
+<h1 align="center">👋 Hallo! Ich bin <strong>Mesut Karagöz</strong></h1>
+<h3 align="center">Physiker mit Leidenschaft für Data Science, Analyse und Visualisierung</h3>
+
+---
+
+## 🧠 Über Mich  
+Ich bin ehemaliger Physiklehrer mit einer tiefen Leidenschaft für Datenanalyse und maschinelles Lernen.  
+Mein wissenschaftlicher Hintergrund ermöglicht es mir, analytisches Denken mit praktischen Lösungen zu verbinden.  
+Ich erweitere meine Kenntnisse ständig durch praxisorientierte Projekte, Online-Kurse und Selbststudium.  
+Mein Ziel ist es, als **Data Analyst** oder **Data Scientist** professionell tätig zu sein – datengetrieben, präzise und neugierig.
+
+---
+
+## 📊 Meine Projekte  
+
+### 🧩 Explorative Datenanalyse (EDA)
+- [Stroke Data Project – Kaggle](https://www.kaggle.com/code/mesutkaragz/storke-data-project)  
+- [Store Sharing Project – Kaggle](https://www.kaggle.com/code/mesutkaragz/store-sharing-project)  
+
+### 📈 Power BI Projekte
+- *Pizza Restaurant Sales Dashboard*
+
+### 📉 Tableau Projekte
+- [Airbnb in NYC Dashboard](https://public.tableau.com/app/profile/mesut.karag.z/viz/AirbnbinNYC_17506109078190/Story2)  
+- [Xbox Dataset Dashboard](https://public.tableau.com/app/profile/mesut.karag.z/viz/XboxDataset/Dashboard23)  
+- [Road Accident Dashboard](https://public.tableau.com/app/profile/mesut.karag.z/viz/RoadAccidentDashboard_17507719270400/Dashboard1)  
+- [London Bus Safety Dashboard](https://public.tableau.com/app/profile/mesut.karag.z/viz/DataVisualizationwithTableau-1_17480948729220/Dashboard1)  
+- [World History Analysis Dashboard](https://public.tableau.com/app/profile/mesut.karag.z/viz/Animasyon_17490582647970/WorldHistory)  
+
+---
+
+## ⚙️ Fertigkeiten / Tech Stack  
+
+## 🚀 Data Science and Analytics Stack  
+
+| Python | SQL | Scikit-learn | TensorFlow | PyTorch |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/> |
+
+---
+
+## 📊 Data Visualization and Analysis  
+
+| Pandas | Numpy | Matplotlib | Seaborn | Plotly | Power BI | Tableau |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/> | <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40"/> |
+
+
+---
+
+## 🛠️ Development Environment and Tools  
+
+| Jupyter | VS Code | Google Colab | Git | Docker | Anaconda |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40"/> |
+
+---
+## ☁️ Databases and Cloud Platforms  
+
+| PostgreSQL | MongoDB | AWS | Azure | GCP | Apache Spark | Firebase | DBeaver |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Amazon_Web_Services_Logo.svg" width="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/> | <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="40"/> |
+
+
+---
+
+## 🌐 Web Technologies  
+
+| HTML | CSS | JavaScript | React | Flask | Streamlit |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/> | <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40"/> |
+
+---
+
+## 🎨 Design and Creativity  
+
+| Figma | Canva |
+|:--:|:--:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> | <img src="https://img.icons8.com/color/48/000000/canva.png" width="40"/> |
+
+---
+
+## 📈 GitHub Analytics  
+
+![Mesut's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mst-KrgZ&bg_color=000000&color=00ffff&line=007fff&point=ffffff&area=true&hide_border=true)
 
 
 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="25" height="25"/> Pandas     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="25"   height="25"/> NumPy     <img src="https://img.icons8.com/?size=100&id=qrAVeBIrsjod&format=png&color=000000" alt="Google Sheets" width="40" height="40"/>  Google Sheets  <br>   
-
-
- <img src="https://img.icons8.com/?size=100&id=DA7Uf0dS4b0r&format=png&color=000000" width="25" height="25"/> Data Visualization    <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="Power BI" width="40" height="40"/>  Power BI     <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau" width="40" height="40"/> Tableau  <br> 
- 
-
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="25" height="25"/> HTML & CSS       <img src="https://img.icons8.com/?size=100&id=6aZUcUt6WjzU&format=png&color=000000" alt="JIRA" width="40" height="40"/>
- Software Development Life Cycle (SDLC) & JIRA  <img src="https://img.icons8.com/ios/50/000000/graph.png" alt="Statistics" width="40" height="40"/>  Statistics 1 & 2   <br>
- 
-
- <img src="https://img.icons8.com/?size=100&id=rKKHpdlXFjhy&format=png&color=000000" alt="Data Storytelling" width="40" height="40"/> Data Storytelling
-
- 
- # 
- Danke, dass du mein Profil besucht hast! 😊 
- 
- # 📫 Kontaktieren Sie mich:
- 
- 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mesut-karag%C3%B6z-181733260/)  
- [![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:mesutkrgz65@gmail.com)
-
+⭐️ *Danke, dass Sie mein Profil besucht haben!*
