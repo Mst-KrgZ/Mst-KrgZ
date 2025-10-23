@@ -3,8 +3,9 @@
 <!-- HEADER / BANNER -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600" alt="AI Brain Neural Animation"/>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600" alt="AI Brain Animation"/>
 </p>
+
 
 
 
