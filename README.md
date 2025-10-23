@@ -1,9 +1,7 @@
 <!-- 🎯 Mesut Karagöz | Data Science & Analytics README -->
 
 <!-- HEADER / BANNER -->
-<p align="center">
-  <img src="https://cdn.pixabay.com/photo/2017/06/07/18/55/artificial-intelligence-2389939_1280.jpg" width="800"/>
-</p>
+
 
 
 <h1 align="center">👋 Hallo! Ich bin <strong>Mesut Karagöz</strong></h1>
