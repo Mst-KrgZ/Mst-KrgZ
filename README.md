@@ -9,6 +9,11 @@
 
 
 
+<div align="center">
+  <img src="Lucid_Origin_Create_a_futuristic_looping_animation_inspired_by_1.gif" width="800" alt="Collecting Data Animation"/>
+</div>
+
+<h3 align="center">Collecting Data... Transforming Insights into Impact 🚀</h3>
 
 
 <h1 align="center">👋 Hallo! Ich bin <strong>Mesut Karagöz</strong></h1>
