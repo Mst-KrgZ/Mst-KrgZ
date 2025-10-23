@@ -2,8 +2,9 @@
 
 <!-- HEADER / BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/5FfO3n7.png" alt="Data Science Banner" width="100%" />
+  <img src="https://cdn.pixabay.com/photo/2017/06/07/18/55/artificial-intelligence-2389939_1280.jpg" width="800"/>
 </p>
+
 
 <h1 align="center">👋 Hallo! Ich bin <strong>Mesut Karagöz</strong></h1>
 <h3 align="center">Physiker mit Leidenschaft für Data Science, Analyse und Visualisierung</h3>
