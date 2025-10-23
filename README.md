@@ -3,8 +3,9 @@
 <!-- HEADER / BANNER -->
 
 <p align="center">
-  <img src="https://..." width="700" alt="Data Analytics vs Data Science vs Machine Learning Animation"/>
+  <img src="https://raw.githubusercontent.com/Mst-KrgZ/Mst-KrgZ/main/data-physics.gif" width="700" alt="Data Physics Animation"/>
 </p>
+
 
 
 
