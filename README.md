@@ -3,8 +3,9 @@
 <!-- HEADER / BANNER -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600" alt="AI Brain Animation"/>
+  <img src="https://..." width="700" alt="Data Analytics vs Data Science vs Machine Learning Animation"/>
 </p>
+
 
 
 
