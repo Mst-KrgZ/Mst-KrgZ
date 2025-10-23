@@ -17,6 +17,13 @@ Ich erweitere meine Kenntnisse ständig durch praxisorientierte Projekte, Online
 Mein Ziel ist es, als **Data Analyst** oder **Data Scientist** professionell tätig zu sein – datengetrieben, präzise und neugierig.
 
 ---
+## 🌐 Social Media (Click on logos😊)
+
+| LinkedIn | Kaggle | GitHub | Portfolio | Tableau Public |
+|:--:|:--:|:--:|:--:|:--:|
+| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/mesutkaragoz/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40"/>](https://www.kaggle.com/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>](https://github.com/Mst-KrgZ) | [<img src="https://img.icons8.com/color/48/000000/domain.png" width="40"/>](https://mesutkaragoz.com) | [<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/>](https://public.tableau.com/app/profile/mesutkaragoz) |
+
+---
 
 ## 📊 Meine Projekte  
 
