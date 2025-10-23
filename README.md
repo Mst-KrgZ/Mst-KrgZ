@@ -48,10 +48,9 @@ Mein Ziel ist es, als **Data Analyst** oder **Data Scientist** professionell tä
 
 ## 📊 Data Visualization and Analysis  
 
-| Pandas | Numpy | Matplotlib | Seaborn | Plotly | Power BI | Tableau |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/> | <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40"/> |
-
+| Pandas | Numpy | Matplotlib | Seaborn | Plotly | Power BI | Tableau | MS Excel | Google Sheets |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/> | <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/ms-excel.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/google-sheets.png" width="40"/> |
 
 ---
 
