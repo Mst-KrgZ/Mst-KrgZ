@@ -2,6 +2,9 @@
 
 <!-- HEADER / BANNER -->
 
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600" alt="AI Brain Animation"/>
+</p>
 
 
 <h1 align="center">👋 Hallo! Ich bin <strong>Mesut Karagöz</strong></h1>
