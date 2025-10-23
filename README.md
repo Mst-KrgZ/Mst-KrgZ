@@ -94,7 +94,10 @@ Mein Ziel ist es, als **Data Analyst** oder **Data Scientist** professionell tä
 
 ## 📈 GitHub Analytics  
 
-![Mesut's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mst-KrgZ&bg_color=000000&color=00ffff&line=007fff&point=ffffff&area=true&hide_border=true)
+![Mesut's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mst-KrgZ&theme=react-dark&hide_border=true)  
+
+![GitHub Snake Animation](https://github.com/Mst-KrgZ/Mst-KrgZ/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
