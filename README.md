@@ -1,17 +1,10 @@
 <!-- 🎯 Mesut Karagöz | Data Science & Analytics README -->
 
 <!-- HEADER / BANNER -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mst-KrgZ/Mst-KrgZ/main/data-physics.gif" width="700" alt="Data Physics Animation"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" alt="Data Stream Animation"/>
 </p>
 
-
-
-
-<div align="center">
-  <img src="Lucid_Origin_Create_a_futuristic_looping_animation_inspired_by_1.gif" width="800" alt="Collecting Data Animation"/>
-</div>
 
 <h3 align="center">Collecting Data... Transforming Insights into Impact 🚀</h3>
 
