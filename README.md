@@ -13,10 +13,9 @@
 ---
 
 ## 🧠 Über Mich  
-Ich bin ehemaliger Physiklehrer mit einer tiefen Leidenschaft für Datenanalyse und maschinelles Lernen.  
-Mein wissenschaftlicher Hintergrund ermöglicht es mir, analytisches Denken mit praktischen Lösungen zu verbinden.  
-Ich erweitere meine Kenntnisse ständig durch praxisorientierte Projekte, Online-Kurse und Selbststudium.  
-Mein Ziel ist es, als **Data Analyst** oder **Data Scientist** professionell tätig zu sein – datengetrieben, präzise und neugierig.
+Data Scientist with a background in Physics.
+Experienced in Python, SQL, Machine Learning and data visualization.
+I build end-to-end data solutions — from data modeling and exploratory analysis to ML pipelines, deployment and interactive dashboards.
 
 ---
 ## 🌐 Social Media (Click on logos😊)
