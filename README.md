@@ -49,7 +49,7 @@ I build end-to-end data solutions — from data modeling and exploratory analysi
 ## 🚀 Data Science and Analytics Stack  
 
 | Python | SQL | Scikit-learn | TensorFlow | PyTorch |
-|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:--:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/> |
 
 ---
