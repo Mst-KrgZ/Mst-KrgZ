@@ -33,7 +33,14 @@ I build end-to-end data solutions — from data modeling and exploratory analysi
 - [Store Sharing Project – Kaggle](https://www.kaggle.com/code/mesutkaragz/store-sharing-project)  
 
 ### 📈 Power BI Projekte
-- *Pizza Restaurant Sales Dashboard*
+- [Amazon Marketplace Analytics: Product Performance, Buy Box Proxy & Revenue Impact Analysis](https://github.com/Mst-KrgZ/Amazon-Marketplace-Analytics-Product-Performance-Buy-Box-Proxy-Revenue-Impact-Analysis)
+- [amazon-revenue-profit-cancel-churn-analysis](https://github.com/Mst-KrgZ/amazon-revenue-profit-cancel-churn-analysis)
+- [Pizza Restaurant Sales Dashboard](https://github.com/Mst-KrgZ/pizza-sales-powerbi-analysis)
+- [DataScience_JobSalaries](https://github.com/Mst-KrgZ/Power_BI_Projeckts/tree/main/DataScience_JobSalaries)
+- [IBMdashboard](https://github.com/Mst-KrgZ/Power_BI_Projeckts/tree/main/IBMdashboard)
+- [NetflixDashboard](https://github.com/Mst-KrgZ/Power_BI_Projeckts/tree/main/NetflixDashboard)
+- [Olympics](https://github.com/Mst-KrgZ/Power_BI_Projeckts/tree/main/Olympics)
+- [Pokemon_Stats](https://github.com/Mst-KrgZ/Power_BI_Projeckts/tree/main/Pokemon_Stats)
 
 ### 📉 Tableau Projekte
 - [Airbnb in NYC Dashboard](https://public.tableau.com/app/profile/mesut.karag.z/viz/AirbnbinNYC_17506109078190/Story2)  
