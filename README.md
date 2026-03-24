@@ -71,9 +71,9 @@ I build end-to-end data solutions — from data modeling and exploratory analysi
 ---
 ## ☁️ Databases and Cloud Platforms  
 
-| PostgreSQL | MongoDB | AWS | Azure | GCP | Apache Spark | Firebase | DBeaver |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> | <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/> | <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="40"/> |
+| MySQL | PostgreSQL | AWS | Azure | GCP | Apache Spark | Firebase | DBeaver | MySQL Workbench | pgAdmin |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> | <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/> | <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60"/> | <img src="https://www.pgadmin.org/static/img/pgadmin4-logo.png" width="40"/> |
 
 
 ---
