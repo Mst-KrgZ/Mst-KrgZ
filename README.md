@@ -58,7 +58,13 @@ I build end-to-end data solutions — from data modeling and exploratory analysi
 | Python | SQL | Scikit-learn | TensorFlow | PyTorch |
 |:--:|:--:|:--:|:--:|:--:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/> |
+---
 
+## 🧠 AI Specializations  
+
+| NLP | Generative AI | RAG | Recommendation | Computer Vision |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://cdn-icons-png.flaticon.com/512/10306/10306045.png" width="45"/>| <img src="https://copilot.microsoft.com/th/id/BCO.e8d67cd2-2c73-4708-8e14-30be6b443aa0.png" width="65"/>| <img src="https://copilot.microsoft.com/th/id/BCO.b5bef970-bf3b-4af3-8e1d-3ac502e2226f.png" width="85"/>| <img src="https://cdn-icons-png.flaticon.com/512/17220/17220370.png" width="55"/>| <img src="https://cdn-icons-png.flaticon.com/512/16147/16147327.png" width="55"/> |
 ---
 
 ## 📊 Data Visualization and Analysis  
