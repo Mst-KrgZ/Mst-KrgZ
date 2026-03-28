@@ -33,6 +33,7 @@ I build end-to-end data solutions — from data modeling and exploratory analysi
 - [Store Sharing Project – Kaggle](https://www.kaggle.com/code/mesutkaragz/store-sharing-project)  
 
 ### 📈 Power BI Projekte
+- [Amazon Sales Analytics – Optimization, Forecasting & Decision Support](https://github.com/Mst-KrgZ/amazon-sales-analytics-powerbi-optimization-forecasting)
 - [Amazon Marketplace Analytics: Product Performance, Buy Box Proxy & Revenue Impact Analysis](https://github.com/Mst-KrgZ/Amazon-Marketplace-Analytics-Product-Performance-Buy-Box-Proxy-Revenue-Impact-Analysis)
 - [amazon-revenue-profit-cancel-churn-analysis](https://github.com/Mst-KrgZ/amazon-revenue-profit-cancel-churn-analysis)
 - [Pizza Restaurant Sales Dashboard](https://github.com/Mst-KrgZ/pizza-sales-powerbi-analysis)
