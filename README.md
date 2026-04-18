@@ -2,11 +2,6 @@
 
 <!-- HEADER / BANNER -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" alt="Data Stream Animation"/>
-</p>
-
-
 <h1 align="center">👋 Hallo! Ich bin <strong>Mesut Karagöz</strong></h1>
 <h3 align="center">Physiker mit Leidenschaft für Data Science, Analyse und Visualisierung</h3>
 
