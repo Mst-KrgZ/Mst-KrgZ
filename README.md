@@ -2,15 +2,18 @@
 
 <!-- HEADER / BANNER -->
 
-<h1 align="center">👋 Hallo! Ich bin <strong>Mesut Karagöz</strong></h1>
-<h3 align="center">Physiker mit Leidenschaft für Data Science, Analyse und Visualisierung</h3>
+<h1 align="center">Mesut Karagöz — Data Analyst | Data Scientist | E-Commerce Analytics, Forecasting &amp; ML Systems</h1>
+<h3 align="center">Turning E-Commerce Data into Business Decisions</h3>
+<p align="center"><em>From Physics to Data Science — building data-driven systems for real business impact.</em></p>
 
 ---
 
-## 🧠 Über Mich  
-Data Scientist with a background in Physics.
-Experienced in Python, SQL, Machine Learning and data visualization.
-I build end-to-end data solutions — from data modeling and exploratory analysis to ML pipelines, deployment and interactive dashboards.
+## 🧠 About Me  
+Data Analyst & Data Scientist with a background in Physics, focused on transforming complex e-commerce data into actionable business decisions.
+
+I design and build end-to-end data solutions — combining analytics, KPI dashboards, forecasting, and machine learning — to support revenue growth, profitability optimization, and operational decision-making.
+
+My work goes beyond analysis: I develop data-driven systems that bridge the gap between raw data and real business impact.
 
 ---
 ## 🌐 Social Media (Click on logos😊)
