@@ -7,16 +7,17 @@
 
 ## 🧠 Über mich  
 Data Analyst & Data Scientist mit physikalischem Hintergrund, spezialisiert auf die Transformation komplexer E-Commerce-Daten in umsetzbare Geschäftserkenntnisse.  
-Ich entwickle End-to-End-Datenlösungen — von Analyse und KPI-Dashboards bis hin zu Forecasting und Machine Learning — zur Unterstützung von Umsatzwachstum und datenbasierten Entscheidungen.  
-Meine Arbeit geht über klassische Analysen hinaus: Entwicklung datengetriebener Systeme mit realem Business Impact.
+Ich entwickle End-to-End-Datenlösungen — von Analyse und KPI-Dashboards bis hin zu Forecasting, Machine Learning und skalierbaren ML-Systemen — zur Unterstützung von Umsatzwachstum und datenbasierten Entscheidungen.  
+Meine Arbeit geht über klassische Analysen hinaus: Entwicklung datengetriebener Systeme unter Einsatz von Machine Learning, Zeitreihenmodellen, NLP und Predictive Analytics mit realem Business Impact.
 
 ## ⚡ Schwerpunkte  
 - 🚀 Entwicklung datengetriebener Analytics- und ML-Systeme  
 - 📊 Fokus auf Umsatz-, Profitabilitäts- und KPI-Analysen  
-- 📈 Zeitreihenprognosen, Churn- und Cancellation-Analysen  
-- 🛠️ End-to-End-Umsetzung mit Python, SQL, Power BI und Machine Learning  
+- 📈 Zeitreihenprognosen, Churn-, Cancellation- und Predictive Analytics  
+- 🤖 Machine Learning, NLP, Computer Vision & Empfehlungssysteme (inkl. RAG-basierte Anwendungen)  
+- 🛠️ End-to-End-Umsetzung mit Python, SQL, Power BI, Tableau und ML-Frameworks  
 
-
+---
 ---
 ## 🌐 Social Media (Click on logos😊)
 
