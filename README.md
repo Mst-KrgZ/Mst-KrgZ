@@ -78,53 +78,65 @@ Meine Arbeit geht über klassische Analysen hinaus: Entwicklung datengetriebener
 ---
 
 ## ⚙️ Fertigkeiten / Tech Stack  
+---
 
-## 🚀 Data Science and Analytics Stack  
+## 🚀 Data Science & Machine Learning  
 
 | Python | SQL | Scikit-learn | TensorFlow | PyTorch |
 |:--:|:--:|:--:|:--:|:--:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/> |
+
 ---
 
 ## 🧠 AI Specializations  
 
 | NLP | Generative AI | RAG | Recommendation | Computer Vision |
 |:--:|:--:|:--:|:--:|:--:|
-| <img src="https://cdn-icons-png.flaticon.com/512/10306/10306045.png" width="45"/>| <img src="https://copilot.microsoft.com/th/id/BCO.e8d67cd2-2c73-4708-8e14-30be6b443aa0.png" width="65"/>| <img src="https://copilot.microsoft.com/th/id/BCO.b5bef970-bf3b-4af3-8e1d-3ac502e2226f.png" width="85"/>| <img src="https://cdn-icons-png.flaticon.com/512/17220/17220370.png" width="55"/>| <img src="https://cdn-icons-png.flaticon.com/512/16147/16147327.png" width="55"/> |
+| <img src="https://cdn-icons-png.flaticon.com/512/10306/10306045.png" width="45"/> | <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="45"/> | <img src="https://cdn-icons-png.flaticon.com/512/4149/4149673.png" width="45"/> | <img src="https://cdn-icons-png.flaticon.com/512/17220/17220370.png" width="55"/> | <img src="https://cdn-icons-png.flaticon.com/512/16147/16147327.png" width="55"/> |
+
 ---
 
-## 📊 Data Visualization and Analysis  
+## 🚀 AI Deployment & Platforms  
 
-| Pandas | Numpy | Matplotlib | Seaborn | Plotly | Power BI | Tableau | MS Excel | Google Sheets |
+| Hugging Face | Docker | FastAPI | Streamlit |
+|:--:|:--:|:--:|:--:|
+| <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/> | <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40"/> |
+
+---
+
+## 📊 Data Visualization & Analysis  
+
+| Pandas | NumPy | Matplotlib | Seaborn | Plotly | Power BI | Tableau | Excel | Google Sheets |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/> | <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/ms-excel.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/google-sheets.png" width="40"/> |
 
 ---
 
-## 🛠️ Development Environment and Tools  
+## 🛠️ Development Tools  
 
-| Jupyter | VS Code | Google Colab | Git | Docker | Anaconda |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40"/> |
-
----
-## ☁️ Databases and Cloud Platforms  
-
-| MySQL | PostgreSQL | AWS | Azure | GCP | Apache Spark | Firebase | DBeaver | MySQL Workbench | pgAdmin |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> | <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/> | <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> |
-
+| Jupyter | VS Code | Google Colab | Git | Anaconda |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40"/> |
 
 ---
+
+## ☁️ Databases & Cloud  
+
+| MySQL | PostgreSQL | AWS | Azure | GCP | Spark | Firebase |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> | <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/> |
+
+---
+
 ## 🌐 Web Technologies  
 
-| HTML | CSS | JavaScript | Flask | Streamlit |
-|:--:|:--:|:--:|:--:|:--:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/> | <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40"/> |
+| HTML | CSS | JavaScript | Flask |
+|:--:|:--:|:--:|:--:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/> |
 
 ---
 
-## 🎨 Design and Creativity  
+## 🎨 Design  
 
 | Figma | Canva |
 |:--:|:--:|
