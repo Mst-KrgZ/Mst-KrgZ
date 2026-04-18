@@ -2,18 +2,28 @@
 
 # Mesut Karagöz — Data Analyst | Data Scientist | E-Commerce Analytics, Forecasting & ML Systems
 
-**Turning E-Commerce Data into Business Decisions**  
-*From Physics to Data Science — building data-driven systems for real business impact.*
+**🚀 Ich verwandle E-Commerce-Daten in fundierte Geschäftsentscheidungen**  
+*Vom Physiker zum Data Scientist — Entwicklung datengetriebener Systeme mit echtem Business Impact.*
 
 ---
 
-## 🧠 About Me  
+## 🧠 Über mich  
 
-Data Analyst & Data Scientist with a background in Physics, focused on transforming complex e-commerce data into actionable business decisions.
+Data Analyst & Data Scientist mit physikalischem Hintergrund, spezialisiert auf die Transformation komplexer E-Commerce-Daten in umsetzbare Geschäftserkenntnisse.
 
-I design and build end-to-end data solutions — combining analytics, KPI dashboards, forecasting, and machine learning — to support revenue growth, profitability optimization, and operational decision-making.
+Ich entwickle End-to-End-Datenlösungen — von Analyse und KPI-Dashboards bis hin zu Forecasting und Machine Learning — zur Unterstützung von Umsatzwachstum, Profitabilitätsoptimierung und datenbasierten Entscheidungen.
 
-My work goes beyond analysis: I develop data-driven systems that bridge the gap between raw data and real business impact.
+Meine Arbeit geht über klassische Analysen hinaus: Ich entwickle datengetriebene Systeme, die die Lücke zwischen Rohdaten und realem Geschäftsnutzen schließen.
+
+---
+
+## ⚡ Schwerpunkte  
+
+- 🚀 Entwicklung datengetriebener Analytics- und ML-Systeme  
+- 📊 Fokus auf Umsatz-, Profitabilitäts- und KPI-Analysen  
+- 📈 Erfahrung mit Zeitreihenprognosen, Churn- und Cancellation-Analysen  
+- 🛠️ End-to-End-Umsetzung mit Python, SQL, Power BI und Machine Learning  
+
 
 ---
 ## 🌐 Social Media (Click on logos😊)
