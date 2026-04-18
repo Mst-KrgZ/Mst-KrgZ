@@ -32,11 +32,11 @@ Meine Arbeit geht über klassische Analysen hinaus: Entwicklung datengetriebener
 | Projekt | Beschreibung | Demo |
 |--------|-------------|------|
 | 🤖 Amazon Analytics Chatbot | RAG + SQL-basierte Entscheidungsunterstützung für Amazon Seller Analytics | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/mesut-karagoz/Amazon-Analytics-Chatbot) |
-| 📈 Amazon Buy Box Prediction | ML- & Forecasting-System zur Optimierung der Buy Box Performance | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](LINK_HF_BUYBOX) |
-| 🛒 Cross-Sell Recommendation System | Apriori-basierte Produktempfehlungen für E-Commerce | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](LINK_HF_CROSSSELL) |
-| 💬 Sentiment Analysis (Reviews) | NLP-System zur Analyse von Produktbewertungen (BERT-basiert) | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](LINK_HF_SENTIMENT) |
-| 🖼️ Product Image Classifier | Computer Vision Modell (MobileNetV2) zur Produktklassifikation | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](LINK_HF_CV) |
-| 🚀 Amazon Revenue Forecasting | Zeitreihenprognose (SARIMA, Prophet, XGBoost) | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](LINK_HF_FORECAST) |
+| 📈 Amazon Buy Box Prediction | ML- & Forecasting-System zur Optimierung der Buy Box Performance | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/mesut-karagoz/Amazon-Buybox-Prediction-System) |
+| 🛒 Cross-Sell Recommendation System | Apriori-basierte Produktempfehlungen für E-Commerce | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/mesut-karagoz/Amazon-Cross-Sell-Recommendation-System) |
+| 💬 Sentiment Analysis (Reviews) | NLP-System zur Analyse von Produktbewertungen (BERT-basiert) | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/mesut-karagoz/Amazon-Product-Review-Sentiment-Analysis) |
+| 🖼️ Product Image Classifier | Computer Vision Modell (MobileNetV2) zur Produktklassifikation | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/mesut-karagoz/Amazon-Computer-Vision-Classifier) |
+| 🚀 Amazon Revenue Forecasting | Zeitreihenprognose (SARIMA, Prophet, XGBoost) | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/mesut-karagoz/amazon-revenue-forecasting) |
 
 ---
 
