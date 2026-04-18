@@ -44,15 +44,15 @@ Meine Arbeit geht über klassische Analysen hinaus: Entwicklung datengetriebener
 
 | Projekt | Beschreibung | Code |
 |--------|-------------|------|
-| 📊 Amazon Revenue & Profitability Analysis | KPI-Dashboard, Churn-, Cancellation- und Umsatzanalyse | 🔗 [GitHub](https://github.com/Mst-KrgZ/amazon-revenue-profit-cancel-churn-analysis) |
-| 📈 Amazon Sales Analytics | Optimization, Forecasting & Decision Support | 🔗 [GitHub](https://github.com/Mst-KrgZ/amazon-sales-analytics-powerbi-optimization-forecasting) |
-| 🛒 Amazon Marketplace Analytics | Product Performance, Buy Box Proxy & Revenue Impact | 🔗 [GitHub](https://github.com/Mst-KrgZ/Amazon-Marketplace-Analytics-Product-Performance-Buy-Box-Proxy-Revenue-Impact-Analysis) |
-| 🍕 Pizza Sales Dashboard | Umsatz- und Performance-Analyse | 🔗 [GitHub](https://github.com/Mst-KrgZ/pizza-sales-powerbi-analysis) |
-| 💼 Data Science Job Salaries | Analyse von Gehältern im Data-Bereich | 🔗 [GitHub](https://github.com/Mst-KrgZ/Power_BI_Projeckts/tree/main/DataScience_JobSalaries) |
-| 🏢 IBM Dashboard | Unternehmensdaten-Visualisierung | 🔗 [GitHub](https://github.com/Mst-KrgZ/Power_BI_Projeckts/tree/main/IBMdashboard) |
-| 📺 Netflix Dashboard | Content- und Trendanalyse | 🔗 [GitHub](https://github.com/Mst-KrgZ/Power_BI_Projeckts/tree/main/NetflixDashboard) |
-| 🏅 Olympics Analysis | Sportdatenanalyse | 🔗 [GitHub](https://github.com/Mst-KrgZ/Power_BI_Projeckts/tree/main/Olympics) |
-| 🎮 Pokemon Stats | Analyse von Pokémon-Daten | 🔗 [GitHub](https://github.com/Mst-KrgZ/Power_BI_Projeckts/tree/main/Pokemon_Stats) |
+| 📊 Amazon Revenue & Profitability Analysis | KPI-Dashboard, Churn-, Cancellation- und Umsatzanalyse | [![GitHub](https://img.shields.io/badge/GitHub-Code-black)](https://github.com/Mst-KrgZ/amazon-revenue-profit-cancel-churn-analysis) |
+| 📈 Amazon Sales Analytics | Optimization, Forecasting & Decision Support | [![GitHub](https://img.shields.io/badge/GitHub-Code-black)](https://github.com/Mst-KrgZ/amazon-sales-analytics-powerbi-optimization-forecasting) |
+| 🛒 Amazon Marketplace Analytics | Product Performance, Buy Box Proxy & Revenue Impact | [![GitHub](https://img.shields.io/badge/GitHub-Code-black)](https://github.com/Mst-KrgZ/Amazon-Marketplace-Analytics-Product-Performance-Buy-Box-Proxy-Revenue-Impact-Analysis) |
+| 🍕 Pizza Sales Dashboard | Umsatz- und Performance-Analyse | [![GitHub](https://img.shields.io/badge/GitHub-Code-black)](https://github.com/Mst-KrgZ/pizza-sales-powerbi-analysis) |
+| 💼 Data Science Job Salaries | Analyse von Gehältern im Data-Bereich | [![GitHub](https://img.shields.io/badge/GitHub-Code-black)](https://github.com/Mst-KrgZ/Power_BI_Projeckts/tree/main/DataScience_JobSalaries) |
+| 🏢 IBM Dashboard | Unternehmensdaten-Visualisierung | [![GitHub](https://img.shields.io/badge/GitHub-Code-black)](https://github.com/Mst-KrgZ/Power_BI_Projeckts/tree/main/IBMdashboard) |
+| 📺 Netflix Dashboard | Content- und Trendanalyse | [![GitHub](https://img.shields.io/badge/GitHub-Code-black)](https://github.com/Mst-KrgZ/Power_BI_Projeckts/tree/main/NetflixDashboard) |
+| 🏅 Olympics Analysis | Sportdatenanalyse | [![GitHub](https://img.shields.io/badge/GitHub-Code-black)](https://github.com/Mst-KrgZ/Power_BI_Projeckts/tree/main/Olympics) |
+| 🎮 Pokemon Stats | Analyse von Pokémon-Daten | [![GitHub](https://img.shields.io/badge/GitHub-Code-black)](https://github.com/Mst-KrgZ/Power_BI_Projeckts/tree/main/Pokemon_Stats) |
 
 ---
 
@@ -60,11 +60,11 @@ Meine Arbeit geht über klassische Analysen hinaus: Entwicklung datengetriebener
 
 | Projekt | Beschreibung | Demo |
 |--------|-------------|------|
-| 🏙️ Airbnb in NYC Dashboard | Analyse von Mietpreisen & Nachfrage | 🔗 [View](https://public.tableau.com/app/profile/mesut.karag.z/viz/AirbnbinNYC_17506109078190/Story2) |
-| 🎮 Xbox Dataset Dashboard | Verkaufs- und Trendanalyse | 🔗 [View](https://public.tableau.com/app/profile/mesut.karag.z/viz/XboxDataset/Dashboard23) |
-| 🚗 Road Accident Dashboard | Unfallanalyse & Risikobewertung | 🔗 [View](https://public.tableau.com/app/profile/mesut.karag.z/viz/RoadAccidentDashboard_17507719270400/Dashboard1) |
-| 🚌 London Bus Safety Dashboard | Sicherheitsanalyse im ÖPNV | 🔗 [View](https://public.tableau.com/app/profile/mesut.karag.z/viz/DataVisualizationwithTableau-1_17480948729220/Dashboard1) |
-| 🌍 World History Analysis | Historische Datenvisualisierung | 🔗 [View](https://public.tableau.com/app/profile/mesut.karag.z/viz/Animasyon_17490582647970/WorldHistory) |
+| 🏙️ Airbnb in NYC Dashboard | Analyse von Mietpreisen & Nachfrage | [![Tableau](https://img.shields.io/badge/Tableau-View-blue)](https://public.tableau.com/app/profile/mesut.karag.z/viz/AirbnbinNYC_17506109078190/Story2) |
+| 🎮 Xbox Dataset Dashboard | Verkaufs- und Trendanalyse | [![Tableau](https://img.shields.io/badge/Tableau-View-blue)](https://public.tableau.com/app/profile/mesut.karag.z/viz/XboxDataset/Dashboard23) |
+| 🚗 Road Accident Dashboard | Unfallanalyse & Risikobewertung | [![Tableau](https://img.shields.io/badge/Tableau-View-blue)](https://public.tableau.com/app/profile/mesut.karag.z/viz/RoadAccidentDashboard_17507719270400/Dashboard1) |
+| 🚌 London Bus Safety Dashboard | Sicherheitsanalyse im ÖPNV | [![Tableau](https://img.shields.io/badge/Tableau-View-blue)](https://public.tableau.com/app/profile/mesut.karag.z/viz/DataVisualizationwithTableau-1_17480948729220/Dashboard1) |
+| 🌍 World History Analysis | Historische Datenvisualisierung | [![Tableau](https://img.shields.io/badge/Tableau-View-blue)](https://public.tableau.com/app/profile/mesut.karag.z/viz/Animasyon_17490582647970/WorldHistory) |
 
 ---
 
@@ -72,8 +72,8 @@ Meine Arbeit geht über klassische Analysen hinaus: Entwicklung datengetriebener
 
 | Projekt | Beschreibung | Link |
 |--------|-------------|------|
-| 🧠 Stroke Data Project | Analyse medizinischer Risikofaktoren | 🔗 [Kaggle](https://www.kaggle.com/code/mesutkaragz/storke-data-project) |
-| 🏪 Store Sharing Project | Analyse von Sharing-Daten & Nutzung | 🔗 [Kaggle](https://www.kaggle.com/code/mesutkaragz/store-sharing-project) |
+| 🧠 Stroke Data Project | Analyse medizinischer Risikofaktoren | [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue)](https://www.kaggle.com/code/mesutkaragz/storke-data-project) |
+| 🏪 Store Sharing Project | Analyse von Sharing-Daten & Nutzung | [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue)](https://www.kaggle.com/code/mesutkaragz/store-sharing-project) |
 
 ---
 
