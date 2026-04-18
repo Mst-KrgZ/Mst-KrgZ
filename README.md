@@ -29,13 +29,14 @@ Meine Arbeit geht über klassische Analysen hinaus: Entwicklung datengetriebener
 ## 🚀 Produktive ML- & Analytics-Systeme (Live Deployments)  
 > Interaktive Machine-Learning- und Analytics-Systeme mit Live-Demos  
 
-| Projekt | Beschreibung | Live Demo |
-|--------|-------------|-----------|
-| 🤖 Amazon Analytics Chatbot | RAG + SQL-basierte Entscheidungsunterstützung für Amazon Seller Analytics | 🔗 [Live Demo](LINK_HF_CHATBOT) |
-| 📈 Amazon Buy Box Prediction | ML- & Forecasting-System zur Optimierung der Buy Box Performance | 🔗 [Live Demo](LINK_HF_BUYBOX) |
-| 🛒 Cross-Sell Recommendation System | Apriori-basierte Produktempfehlungen für E-Commerce | 🔗 [Live Demo](LINK_HF_CROSSSELL) |
-| 💬 Sentiment Analysis (Reviews) | NLP-System zur Analyse von Produktbewertungen (BERT-basiert) | 🔗 [Live Demo](LINK_HF_SENTIMENT) |
-| 🖼️ Product Image Classifier | Computer Vision Modell (MobileNetV2) zur Produktklassifikation | 🔗 [Live Demo](LINK_HF_CV) |
+| Projekt | Beschreibung | Demo |
+|--------|-------------|------|
+| 🤖 Amazon Analytics Chatbot | RAG + SQL-basierte Entscheidungsunterstützung für Amazon Seller Analytics | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/mesut-karagoz/Amazon-Analytics-Chatbot) |
+| 📈 Amazon Buy Box Prediction | ML- & Forecasting-System zur Optimierung der Buy Box Performance | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](LINK_HF_BUYBOX) |
+| 🛒 Cross-Sell Recommendation System | Apriori-basierte Produktempfehlungen für E-Commerce | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](LINK_HF_CROSSSELL) |
+| 💬 Sentiment Analysis (Reviews) | NLP-System zur Analyse von Produktbewertungen (BERT-basiert) | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](LINK_HF_SENTIMENT) |
+| 🖼️ Product Image Classifier | Computer Vision Modell (MobileNetV2) zur Produktklassifikation | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](LINK_HF_CV) |
+| 🚀 Amazon Revenue Forecasting | Zeitreihenprognose (SARIMA, Prophet, XGBoost) | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](LINK_HF_FORECAST) |
 
 ---
 
