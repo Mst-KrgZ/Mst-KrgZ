@@ -16,7 +16,6 @@ Meine Arbeit geht über klassische Analysen hinaus: Entwicklung datengetriebener
 - 📈 Zeitreihenprognosen, Churn-, Cancellation- und Predictive Analytics  
 - 🤖 Machine Learning, NLP, Computer Vision & Empfehlungssysteme (inkl. RAG-basierte Anwendungen)  
 - 🛠️ End-to-End-Umsetzung mit Python, SQL, Power BI, Tableau und ML-Frameworks
-- 
 ---
 ## 🌐 Social Media (Click on logos😊)
 
