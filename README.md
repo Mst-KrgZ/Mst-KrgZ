@@ -26,11 +26,14 @@ Meine Arbeit geht über klassische Analysen hinaus: Entwicklung datengetriebener
 
 ---
 
+---
+
 ## 🚀 Produktive ML- & Analytics-Systeme (Live Deployments)  
 > Interaktive Machine-Learning- und Analytics-Systeme mit Live-Demos  
 
 | Projekt | Beschreibung | Demo |
 |--------|-------------|------|
+| 📦 Olist E-Commerce Analytics Dashboard | End-to-End E-Commerce Analyse mit interaktivem Streamlit Dashboard (Delivery, Revenue, Customer Insights) | [![Streamlit](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?logo=streamlit&logoColor=white)](https://olist-ecommerce-analysis-xtrytimgbgkgnqla2e5grv.streamlit.app/) |
 | 🤖 Amazon Analytics Chatbot | RAG + SQL-basierte Entscheidungsunterstützung für Amazon Seller Analytics | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/mesut-karagoz/Amazon-Analytics-Chatbot) |
 | 📈 Amazon Buy Box Prediction | ML- & Forecasting-System zur Optimierung der Buy Box Performance | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/mesut-karagoz/Amazon-Buybox-Prediction-System) |
 | 🛒 Cross-Sell Recommendation System | Apriori-basierte Produktempfehlungen für E-Commerce | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/mesut-karagoz/Amazon-Cross-Sell-Recommendation-System) |
@@ -38,6 +41,7 @@ Meine Arbeit geht über klassische Analysen hinaus: Entwicklung datengetriebener
 | 🖼️ Product Image Classifier | Computer Vision Modell (MobileNetV2) zur Produktklassifikation | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/mesut-karagoz/Amazon-Computer-Vision-Classifier) |
 | 🚀 Amazon Revenue Forecasting | Zeitreihenprognose (SARIMA, Prophet, XGBoost) | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/mesut-karagoz/amazon-revenue-forecasting) |
 | 🏦 Bank Churn Prediction | ML-System zur Kundenabwanderungsprognose (CatBoost) | [![HuggingFace](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/mesut-karagoz/Bank-Churn-Prediction-ML-System) |
+
 ---
 
 ### 📈 Power BI Projekte  
