@@ -45,7 +45,7 @@ Meine Arbeit geht über klassische Analysen hinaus: Entwicklung datengetriebener
 
 | Projekt | Beschreibung | Demo |
 |--------|-------------|------|
-| 📦Olist E-Commerce Analytics Dashboard  |End-to-End E-Commerce Analyse mit interaktivem Streamlit Dashboard (Delivery, Revenue, Customer Insights) - entwickelt mit Python & Streamlit  | [![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit&logoColor=white)](DEMO_LINK_HIER) |
+| 📦Olist E-Commerce Analytics Dashboard  |End-to-End E-Commerce Analyse mit interaktivem Streamlit Dashboard (Delivery, Revenue, Customer Insights) - entwickelt mit Python & Streamlit  | [![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit&logoColor=white)](https://olist-ecommerce-analysis-xtrytimgbgkgnqla2e5grv.streamlit.app/) |
 ### 📈 Power BI Projekte  
 
 ---
