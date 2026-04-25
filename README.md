@@ -1,29 +1,45 @@
 <!-- 🎯 Mesut Karagöz | Data Science & Analytics README -->
 
-# Mesut Karagöz — Data Analyst | Data Scientist | E-Commerce Analytics, Forecasting & ML Systems
+<h1 align="center">
+Mesut Karagöz — Data Scientist | E-Commerce Analytics & Forecasting | ML, GenAI & LLM Systems
+</h1>
 
-🚀 Ich verwandle E-Commerce-Daten in fundierte Geschäftsentscheidungen  
-*Vom Physiker zum Data Scientist — Entwicklung datengetriebener Systeme mit echtem Business Impact.*
+🚀 Ich verwandle E-Commerce-Daten in datengetriebene Geschäftsentscheidungen.  
+Vom Physiker zum Data Scientist — Entwicklung intelligenter Systeme mit messbarem Business Impact.
 
 ## 🧠 Über mich  
-Data Analyst & Data Scientist mit physikalischem Hintergrund, spezialisiert auf die Transformation komplexer E-Commerce-Daten in umsetzbare Geschäftserkenntnisse.  
-Ich entwickle End-to-End-Datenlösungen — von Analyse und KPI-Dashboards bis hin zu Forecasting, Machine Learning und skalierbaren ML-Systemen — zur Unterstützung von Umsatzwachstum und datenbasierten Entscheidungen.  
-Meine Arbeit geht über klassische Analysen hinaus: Entwicklung datengetriebener Systeme unter Einsatz von Machine Learning, Zeitreihenmodellen, NLP und Predictive Analytics mit realem Business Impact.
 
-## ⚡ Schwerpunkte  
-- 🚀 Entwicklung datengetriebener Analytics- und ML-Systeme  
-- 📊 Fokus auf Umsatz-, Profitabilitäts- und KPI-Analysen  
-- 📈 Zeitreihenprognosen, Churn-, Cancellation- und Predictive Analytics  
-- 🤖 Machine Learning, NLP, Computer Vision & Empfehlungssysteme (inkl. RAG-basierte Anwendungen)  
-- 🛠️ End-to-End-Umsetzung mit Python, SQL, Power BI, Tableau und ML-Frameworks
+Data Analyst & Data Scientist mit physikalischem Hintergrund und Fokus auf E-Commerce Intelligence und datengetriebene Entscheidungssysteme.  
+
+Ich entwickle End-to-End-Lösungen — von explorativer Analyse und KPI-Dashboards bis hin zu Forecasting, Machine Learning und skalierbaren ML-Systemen.  
+
+Mein Fokus liegt nicht nur auf Analyse, sondern auf der Entwicklung von Lösungen, die echten geschäftlichen Mehrwert schaffen — durch präzise Prognosen, optimierte Prozesse und fundierte Entscheidungen.
+
+## ⚡ Schwerpunkte
+
+- 🚀 Entwicklung von Analytics- und Machine-Learning-Systemen  
+- 📊 Umsatz-, Profitabilitäts- und KPI-getriebene Analysen  
+- 📈 Forecasting, Churn-, Cancellation- und Predictive Analytics  
+- 🤖 Machine Learning, NLP & Empfehlungssysteme (inkl. RAG-basierte Anwendungen)  
+- 🧠 GenAI & LLM-Systeme (Retrieval, Prompt Engineering, AI-gestützte Use Cases)  
+- 🛠️ End-to-End-Umsetzung mit Python, SQL, Power BI und modernen ML-Frameworks
+
+<table>
+  <tr>
+    <td valign="top">⚠️</td>
+    <td>
+      <b>Note:</b> Projekte dienen Portfolio-Zwecken.<br>
+      Daten wurden teilweise maskiert und synthetisch transformiert, wobei analytische Struktur und Business-Logik erhalten bleiben.
+    </td>
+  </tr>
+</table>
+
 ---
-## 🌐 Social Media (Click on logos😊)
+## 🌐 Kontakt & Netzwerk
 
 | LinkedIn | Kaggle | GitHub | Portfolio | Tableau Public |
 |:--:|:--:|:--:|:--:|:--:|
 | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/mesut-karagoz/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40"/>](https://www.kaggle.com/mesutkaragz) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>](https://github.com/Mst-KrgZ) | [<img src="https://img.icons8.com/color/48/000000/domain.png" width="40"/>](http://mesutkaragoez.de/) | [<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/>](https://public.tableau.com/app/profile/mesut.karag.z/vizzes) |
-
----
 
 ---
 
@@ -88,7 +104,6 @@ Meine Arbeit geht über klassische Analysen hinaus: Entwicklung datengetriebener
 ---
 
 ## ⚙️ Fertigkeiten / Tech Stack  
----
 
 ## 🚀 Data Science & Machine Learning  
 
