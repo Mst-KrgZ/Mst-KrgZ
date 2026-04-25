@@ -98,7 +98,7 @@ Mein Fokus liegt nicht nur auf Analyse, sondern auf der Entwicklung von Lösunge
 
 | Projekt | Beschreibung | Link |
 |--------|-------------|------|
-| 🧠 Stroke Data Project | Analyse medizinischer Risikofaktoren | [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue)](https://www.kaggle.com/code/mesutkaragz/storke-data-project) |
+| 🧠 Stroke Risk Analysis | Hypothesengetriebene Analyse klinischer Risikofaktoren | [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue)](https://www.kaggle.com/code/mesutkaragz/storke-data-project) |
 | 🏪 Store Sharing Project | Analyse von Sharing-Daten & Nutzung | [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue)](https://www.kaggle.com/code/mesutkaragz/store-sharing-project) |
 | 📦 Olist E-Commerce EDA | End-to-End Analyse inkl. Hypothesen, Feature Engineering und Business Insights | [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue)](https://www.kaggle.com/code/mesutkaragz/olist-brazilian-e-commerce-end-to-end-eda-hypo) |
 
