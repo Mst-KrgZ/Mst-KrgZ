@@ -63,6 +63,9 @@ Mein Fokus liegt nicht nur auf Analyse, sondern auf der Entwicklung von Lösunge
 | Projekt | Beschreibung | Demo |
 |--------|-------------|------|
 | 📦Olist E-Commerce Analytics Dashboard  |End-to-End E-Commerce Analyse mit interaktivem Streamlit Dashboard (Delivery, Revenue, Customer Insights) - entwickelt mit Python & Streamlit  | [![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit&logoColor=white)](https://olist-ecommerce-analysis-xtrytimgbgkgnqla2e5grv.streamlit.app/) |
+| 🩺 Stroke Risk Analytics Dashboard  |Hypothesis-driven Analyse klinischer und demografischer Risikofaktoren für Schlaganfälle mit interaktivem Healthcare Dashboard (Age, Hypertension, Glucose, BMI, Risk Segmentation) | [![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit&logoColor=white)](https://stroke-risk-analytics-dashboard-dpstthrybrupoh7c9wdkkv.streamlit.app/) |
+
+
 ### 📈 Power BI Projekte  
 
 ---
