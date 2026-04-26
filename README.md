@@ -38,9 +38,9 @@ Mein Fokus liegt nicht nur auf Analyse, sondern auf der Entwicklung von Lösunge
 
 ## 🌐 Kontakt & Netzwerk
 
-| Portfolio | LinkedIn | Hugging Face | Kaggle | Tableau | Medium | GitHub |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| [<img src="https://img.icons8.com/color/48/000000/domain.png" width="40"/>](http://mesutkaragoez.de/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/mesut-karagoz/) | [<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>](https://huggingface.co/mesut-karagoz) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40"/>](https://www.kaggle.com/mesutkaragz) | [<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/>](https://public.tableau.com/app/profile/mesut.karag.z/vizzes) | [<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="40"/>](https://medium.com/@mesutkrgz65) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>](https://github.com/Mst-KrgZ) |
+| Portfolio | LinkedIn | Hugging Face | Streamlit | Kaggle | Tableau | Medium | GitHub |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| [<img src="https://img.icons8.com/color/48/000000/domain.png" width="40"/>](http://mesutkaragoez.de/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/mesut-karagoz/) | [<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>](https://huggingface.co/mesut-karagoz) | [<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40"/>](https://share.streamlit.io/user/mst-krgz) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40"/>](https://www.kaggle.com/mesutkaragz) | [<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/>](https://public.tableau.com/app/profile/mesut.karag.z/vizzes) | [<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="40"/>](https://medium.com/@mesutkrgz65) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>](https://github.com/Mst-KrgZ) |
 
 ---
 
