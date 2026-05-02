@@ -1,7 +1,7 @@
 <!-- 🎯 Mesut Karagöz | Data Science & Analytics README -->
 
 <h1 align="center">
-Mesut Karagöz — Data Scientist | E-Commerce Analytics & Forecasting | ML, GenAI & LLM Systems
+Mesut Karagöz — Data Scientist | Forecasting, ML & GenAI Systems | Production-Grade Decision Intelligence
 </h1>
 
 🚀 Ich verwandle E-Commerce-Daten in datengetriebene Geschäftsentscheidungen.  
