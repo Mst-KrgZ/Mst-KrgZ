@@ -4,16 +4,24 @@
 Mesut Karagöz — Data Scientist | Forecasting, ML & GenAI Systems | Production-Grade Decision Intelligence
 </h1>
 
-🚀 Ich verwandle E-Commerce-Daten in datengetriebene Geschäftsentscheidungen.  
-Vom Physiker zum Data Scientist — Entwicklung intelligenter Systeme mit messbarem Business Impact.
+> 🚀 Ich verwandle Daten in operative Geschäftsentscheidungen.  
+> Vom Physiker zum Data Scientist — Entwicklung produktionsreifer ML-, 
+> Forecasting- und GenAI-Systeme mit messbarem Business Impact.
 
 ## 🧠 Über mich  
 
-Data Analyst & Data Scientist mit physikalischem Hintergrund und Fokus auf E-Commerce Intelligence und datengetriebene Entscheidungssysteme.  
+Data Scientist mit physikalischem Hintergrund. Spezialisiert auf 
+produktionsreife ML-Pipelines, Forecasting und GenAI-Systeme zur 
+Unterstützung datengetriebener Entscheidungen — branchenübergreifend 
+einsetzbar, mit praktischer Erfahrung aus dem E-Commerce.
 
-Ich entwickle End-to-End-Lösungen — von explorativer Analyse und KPI-Dashboards bis hin zu Forecasting, Machine Learning und skalierbaren ML-Systemen.  
+Ich entwickle End-to-End-Lösungen — von explorativer Analyse und 
+KPI-Dashboards bis hin zu Forecasting, Machine Learning, GenAI- und 
+LLM-Systemen.
 
-Mein Fokus liegt nicht nur auf Analyse, sondern auf der Entwicklung von Lösungen, die echten geschäftlichen Mehrwert schaffen — durch präzise Prognosen, optimierte Prozesse und fundierte Entscheidungen.
+Mein Fokus liegt nicht nur auf Analyse, sondern auf der Entwicklung 
+von Lösungen, die echten geschäftlichen Mehrwert schaffen — durch 
+präzise Prognosen, optimierte Prozesse und fundierte Entscheidungen.
 
 ## ⚡ Schwerpunkte
 
