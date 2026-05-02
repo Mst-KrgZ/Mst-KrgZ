@@ -25,12 +25,13 @@ präzise Prognosen, optimierte Prozesse und fundierte Entscheidungen.
 
 ## ⚡ Schwerpunkte
 
-- 🚀 Entwicklung von Analytics- und Machine-Learning-Systemen  
-- 📊 Umsatz-, Profitabilitäts- und KPI-getriebene Analysen  
-- 📈 Forecasting, Churn-, Cancellation- und Predictive Analytics  
-- 🤖 Machine Learning, NLP & Empfehlungssysteme (inkl. RAG-basierte Anwendungen)  
-- 🧠 GenAI & LLM-Systeme (Retrieval, Prompt Engineering, AI-gestützte Use Cases)  
-- 🛠️ End-to-End-Umsetzung mit Python, SQL, Power BI und modernen ML-Frameworks
+- 🚀 End-to-End ML-Pipelines (Python, FastAPI, Docker, AWS)
+- 📊 Umsatz-, Profitabilitäts- und KPI-getriebene Analysen
+- 📈 Forecasting, Churn-, Cancellation- und Predictive Analytics
+- 🤖 Machine Learning, NLP & Empfehlungssysteme
+- 🧠 GenAI & LLM-Systeme (RAG, Prompt Engineering, AI Agents)
+- 🔧 Decision Support Systems mit Python, SQL, Power BI & Tableau
+- 🌐 Branchenübergreifend einsetzbar — Erfahrung aus E-Commerce
 
 <table>
   <tr>
