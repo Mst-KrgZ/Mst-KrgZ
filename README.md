@@ -68,13 +68,13 @@ präzise Prognosen, optimierte Prozesse und fundierte Entscheidungen.
 
 ---
 
-## 🟢 Interactive Analytics Dashboards (Python / Streamlit)
+## 🟢 Interactive Analytics & Data Quality Dashboards (Python / Streamlit)
 
 | Projekt | Beschreibung | Demo |
 |--------|-------------|------|
-| 📦Olist E-Commerce Analytics Dashboard  |End-to-End E-Commerce Analyse mit interaktivem Streamlit Dashboard (Delivery, Revenue, Customer Insights) - entwickelt mit Python & Streamlit  | [![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit&logoColor=white)](https://olist-ecommerce-analysis-xtrytimgbgkgnqla2e5grv.streamlit.app/) |
-| 🩺 Stroke Risk Analytics Dashboard  |Hypothesis-driven Analyse klinischer und demografischer Risikofaktoren für Schlaganfälle mit interaktivem Healthcare Dashboard (Age, Hypertension, Glucose, BMI, Risk Segmentation) | [![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit&logoColor=white)](https://stroke-risk-analytics-dashboard-dpstthrybrupoh7c9wdkkv.streamlit.app/) |
-
+| 🏦 Banking Data Quality Monitoring | Automatisiertes Datenqualitätsmonitoring für Bankdaten mit 17 Prüfregeln, Rohdaten-/Referenzvergleich, Abstimmungsanalysen und konkreten Management-Handlungsempfehlungen | [![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit&logoColor=white)](https://banking-data-quality-monitoring-eaxfftumawvnsotzdp4zhd.streamlit.app/) |
+| 📦 Olist E-Commerce Analytics Dashboard | End-to-End E-Commerce-Analyse mit interaktivem Streamlit Dashboard zu Delivery, Revenue und Customer Insights – entwickelt mit Python und Streamlit | [![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit&logoColor=white)](https://olist-ecommerce-analysis-xtrytimgbgkgnqla2e5grv.streamlit.app/) |
+| 🩺 Stroke Risk Analytics Dashboard | Hypothesis-driven Analyse klinischer und demografischer Risikofaktoren für Schlaganfälle mit interaktivem Healthcare Dashboard zu Alter, Hypertonie, Glukose, BMI und Risikosegmentierung | [![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit&logoColor=white)](https://stroke-risk-analytics-dashboard-dpstthrybrupoh7c9wdkkv.streamlit.app/) |
 
 ### 📈 Power BI Projekte  
 
