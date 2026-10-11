@@ -53,6 +53,15 @@ präzise Prognosen, optimierte Prozesse und fundierte Entscheidungen.
 
 ---
 
+
+## ⭐ Ausgewähltes End-to-End-Projekt
+
+| Projekt | Beschreibung | Code |
+|---------|--------------|------|
+| 🚗 **Kfz Insurance Risk & Pure Premium Intelligence Platform** | End-to-End-Risikoanalytik mit 678.013 Policen, automatisierten DQ-Prüfungen, Poisson-/Gamma-/Tweedie-Modellen, PostgreSQL, Power BI und FastAPI. | [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white)](https://github.com/Mst-KrgZ/kfz-insurance-risk-platform) |
+
+---
+
 ## 🚀 Produktive ML- & Analytics-Systeme (Live Deployments)  
 
 | Projekt | Beschreibung | Demo | Code |
